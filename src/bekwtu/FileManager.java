@@ -1,3 +1,4 @@
+package bekwtu;
 import java.io.*;
 import java.util.Scanner;
 
